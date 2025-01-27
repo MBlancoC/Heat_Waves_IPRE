@@ -19,6 +19,8 @@ Este repositorio almacena los datos y códigos utilizados en el análisis de ola
 ## Objetivo del IPRE
 Evaluar cómo el cambio climático y la estructura de la ciudad influyen en la frecuencia e intensidad de olas de calor en Santiago de Chile.
 
+(incluir objetivo general y especificos)
+
 ---
 
 ## Fuente de los Datos
@@ -53,4 +55,4 @@ El análisis realizado en este proyecto genera los siguientes productos principa
 ---
 
 ## Contacto
-Para preguntas o colaboración, contactar a Manuel Blanco a través de [manuelblanco@uc.cl].
+Para preguntas o colaboración, contactar a Manuel Blanco a través de manuelblanco@uc.cl.
